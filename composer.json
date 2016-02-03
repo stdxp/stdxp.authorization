@@ -1,0 +1,19 @@
+{
+    "name": "stdxp/authorization",
+    "description": "Standard authorization interface",
+    "homepage":"https://github.com/stdxp/stdxp.authorization",
+    "license": "MIT",
+    "authors": [
+
+        {
+            "name": "jake johns",
+            "email": "jake@jakejohns.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Stdxp\\Authorization\\": "src/"
+        }
+    },
+    "require": {}
+}
